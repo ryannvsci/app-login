@@ -60,6 +60,29 @@ src/
 
 ---
 
+## ▶️ Como executar
+
+1. Clone o repositório:
+```sql
+git clone https://github.com/ryannvsci/app-login.git
+cd app-login
+````
+2. Configure o banco conforme a intrução acima.
+3. Execute:
+```sql
+mvn spring-boot:run
+````
+4. Acesse no navegador:
+
+- http://localhost:8080/login (login)
+
+- http://localhost:8080/cadastroUsuario (cadastro)
+
+- Após login, será redirecionado para http://localhost:8080/ (dashboard placeholder)
+
+
+---
+
 ## 💾 Configuração do Banco de Dados
 
 1. Crie um banco no MySQL:
