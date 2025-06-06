@@ -99,7 +99,7 @@ CREATE TABLE usuario (
 
 2. Ajuste o src/main/resources/aplication.properties com suas credenciais:
 
-```sql
+```code
 spring.datasource.url=jdbc:mysql://localhost:3306/app_login
 spring.datasource.username=seu_usuario
 spring.datasource.password=sua_senha
