@@ -63,7 +63,7 @@ src/
 ## ▶️ Como executar
 
 1. Clone o repositório:
-```sql
+```code
 git clone https://github.com/ryannvsci/app-login.git
 cd app-login
 ````
